@@ -1,0 +1,4 @@
+train: D:/desk/programming/labelling/images/train
+val: D:/desk/programming/labelling/images/val
+nc: 3
+names: [ "eyes", "nose", "mouth" ]
